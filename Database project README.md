@@ -12,6 +12,16 @@ Configure the DB instance to permit connections from your web server: To establi
 Open a web application and interact with your database: To validate the end-to-end connectivity and demonstrate that the application can successfully read from and write to the deployed database.
 
 ## Architecture Diagram
+
+### We will start off with this infrastructure
+
 ![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/43636a2b38a3eb54fd1cc84e98a7f11e17dd5ffa/Project%201%3A%20Database/Screenshot%202025-07-07%20205400.png)
+
+### And end up with this infrastructure
+
+![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/3cb67096aa158e1b85497f97d7d98958c8c6ac22/Project%201%3A%20Database/Screenshot%202025-07-07%20205416.png)
+
+## Screenshots of Steps Taken
+
 
 
