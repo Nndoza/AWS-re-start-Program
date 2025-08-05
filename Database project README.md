@@ -41,9 +41,7 @@ In this task, I configured and launched a Multi-AZ Amazon RDS for MySQL database
 
 ![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/fdf0d735dc2c0b58bcd70b2b6f2de1835d3a0636/images/Task%203.png)
 
-
-
-
+![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/8eca6bf5b0dae2ccb9162cdd0abed1581ef81759/Project%201%3A%20Database/complete%20task%203.png)
 
 ### Task 4: Interact with Your Database
 
