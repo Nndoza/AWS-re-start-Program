@@ -17,14 +17,14 @@ Through these projects, I've gained practical experience and solidified my under
 #### Automation & Deployment
 - Understanding Infrastructure as Code (IaC) principles and configuring web server deployments on EC2.
 
-### 📁Projects & Learning Outcomes
-#### Project 1: Build Your DB Server and Interact With Your DB Using an App
+## 📁Projects & Learning Outcomes
+### Project 1: Build Your DB Server and Interact With Your DB Using an App
 Learned: Deploying highly available Amazon RDS databases, configuring secure connections between web servers and databases, and validating end to end application to database interaction.
 
-#### Project 2: Working with Amazon EBS
+### Project 2: Working with Amazon EBS
 Learned: The full lifecycle management of EBS volumes, including creation, attachment, mounting, and critical data protection strategies using snapshots and volume restoration.
 
-#### Project 3: Build Your VPC and Launch a Web Server
+### Project 3: Build Your VPC and Launch a Web Server
 Learned: Designing and implementing custom, secure network architectures within AWS VPCs, configuring routing, and successfully deploying a publicly accessible web server.
 
 This portfolio demonstrates my hands-on capability in foundational AWS services and my commitment to building well-architected cloud solutions.
