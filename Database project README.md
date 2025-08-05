@@ -23,14 +23,29 @@ Open a web application and interact with your database: To validate the end-to-e
 
 ## Screenshots of Steps Taken
 
-### Create a Security Group for the RDS DB Instance
+### Task1: Create a Security Group for the RDS DB Instance
 
 In this task, I created a security group to allow the webserver to access the RDS DB instance. The security group will be used when I launch the database instance.
 
 ![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/42844ffd0204d9d7b81c0e01c620103fc79ddf24/Project%201%3A%20Database/Task%201.png)
 
+### Task2: Create a DB subnet Group
+
 In this task, I created a DB subnet group that is used to tell RDS which subnets can be used for the database. Each DB subnet group requires subnets in at least two Availability Zones.
 
 ![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/7fe945aa6ac045fc7a7a746a43dd947be04c2eb6/images/task%202.png)
+
+### Task 3: Create an Amazon RDS DB instance
+
+In this task, I configured and launched a Multi-AZ Amazon RDS for MySQL database instance.
+
+
+
+### Task 4: Interact with Your Database
+
+In this task, I opened a web application running on your web server and configured it to use the database. 
+
+
+
 
 
