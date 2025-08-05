@@ -11,6 +11,8 @@ The key objectives for this lab project were:
 
 ## Architecture Diagram
 
+![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/01510de5c1ace699f193ce77651712c69b32fa6d/Project%203%20images/Screenshot%202025-08-05%20232109.png)
+
 
 
 
