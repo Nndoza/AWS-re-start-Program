@@ -24,6 +24,8 @@ Open a web application and interact with your database: To validate the end-to-e
 ## Screenshots of Steps Taken
 
 ### Create a Security Group for the RDS DB Instance
+
+In this task, I created a security group to allow the webserver to access the RDS DB instance. The security group will be used when I launch the database instance.
 ![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/42844ffd0204d9d7b81c0e01c620103fc79ddf24/Project%201%3A%20Database/Task%201.png)
 
 
