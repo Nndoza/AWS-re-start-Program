@@ -15,7 +15,81 @@ This project provided a comprehensive introduction to AWS IAM, a fundamental ser
 ![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/5b861243cb7510e168849718aa3b609ca32696be/Project%204%3A%20images/Arictechect%20diagram.png)
 
 Task 1: Created an account password policy
+
 In this task, I created a custom password policy for my AWS account. This policy affects all the users associated with the account.
+![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/a3aed2f98f37331c20d1fa109bb4f049c79dc676/Project%204%3A%20images/password%20rest.png)
+
+Task 2: Explored users and user groups
+
+The S3 Support group has the AmazonS3ReadOnlyAccess policy attached
+![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/a3aed2f98f37331c20d1fa109bb4f049c79dc676/Project%204%3A%20images/task%202.png)
+
+Task 3: Added users to user groups
+
+![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/a3aed2f98f37331c20d1fa109bb4f049c79dc676/Project%204%3A%20images/task%203%20adding%20users.png)
+
+![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/a3aed2f98f37331c20d1fa109bb4f049c79dc676/Project%204%3A%20images/all%20user%20groups%20have%201%20user%20task%202.png)
+
+Task 4: Signed in and tested user permissions
+
+User 1 is not authorized to perform this operation  because the user has not been assigned any permissions to use Amazon EC2.
+![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/a3aed2f98f37331c20d1fa109bb4f049c79dc676/Project%204%3A%20images/user%201%20had%20no%20EC2%20permissions.png)
+
+User 1 is an S3-Support group in IAM, and has permission to view a list of S3 buckets and their contents.
+
+![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/a3aed2f98f37331c20d1fa109bb4f049c79dc676/Project%204%3A%20images/user%201-%20has%20s3%20permissions.png)
+
+User 2 has read only permissions
+
+![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/a3aed2f98f37331c20d1fa109bb4f049c79dc676/Project%204%3A%20images/user%202%20had%20ec2%20permissions.png)
+
+I received a message stating you don't have permissions to list buckets message because user-2 does not have permission to use Amazon S3.
+![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/a3aed2f98f37331c20d1fa109bb4f049c79dc676/Project%204%3A%20images/user%202%20had%20no%20s3%20access%20permissions.png)
+
+User 2 only has read permissions and can not stop the instance that is running.
+![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/a3aed2f98f37331c20d1fa109bb4f049c79dc676/Project%204%3A%20images/user2%20only%20had%20read%20only%20permissions.png)
+
+User 3 has Admin permissions
+![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/a3aed2f98f37331c20d1fa109bb4f049c79dc676/Project%204%3A%20images/user%203%20had%20permissions%20to%20stop%20ec2%20instance%20as%20an%20admin.png)
+
+User 3 has Admin permissions and can stop running instance.
+![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/a3aed2f98f37331c20d1fa109bb4f049c79dc676/Project%204%3A%20images/user%203%20stopping%20an%20instance.png)
+
+## Conclusion
+This project was critical for building a foundational understanding of AWS Identity and Access Management, a cornerstone of cloud security. I successfully:
+- Configured and applied a custom IAM password policy, reinforcing the importance of strong authentication.
+- Explored and understood the hierarchy of IAM users, user groups, and policies, learning how to efficiently manage permissions at scale.
+- Gained practical experience in assigning permissions by adding users to specific groups and observing the immediate effects on their access to AWS services.
+- Validated permission boundaries through hands-on testing, observing how different users were restricted or allowed to perform actions based on their assigned policies.
+
+Overall, this project significantly enhanced my ability to implement robust security controls and manage access effectively within the AWS Cloud, a fundamental skill for designing secure and compliant cloud solutions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
