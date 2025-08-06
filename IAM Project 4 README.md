@@ -12,4 +12,6 @@ This project provided a comprehensive introduction to AWS IAM, a fundamental ser
 - Experiment with the effects of policies on service access: To verify that the assigned permissions correctly restrict or allow access to AWS services (e.g., S3, EC2).
 
 ## Architecture Diagram
-![image alt](
+![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/5b861243cb7510e168849718aa3b609ca32696be/Project%204%3A%20images/Arictechect%20diagram.png)
+
+
