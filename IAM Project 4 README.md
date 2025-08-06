@@ -14,4 +14,8 @@ This project provided a comprehensive introduction to AWS IAM, a fundamental ser
 ## Architecture Diagram
 ![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/5b861243cb7510e168849718aa3b609ca32696be/Project%204%3A%20images/Arictechect%20diagram.png)
 
+Task 1: Created an account password policy
+In this task, I created a custom password policy for my AWS account. This policy affects all the users associated with the account.
+
+
 
