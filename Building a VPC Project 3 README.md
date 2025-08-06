@@ -16,6 +16,12 @@ The key objectives for this lab project were:
 Task 1: created a VPC
 ![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/511da98c7e59141da4c37f65da69a57c9104ab0f/Project%203%20images/task%201%20creating%20a%20vpc%20in%20action.png)
 
+Task 2: Created additional subnets
+![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/0720e2a10c2c25857bf7d8fffa6cb7810871de5b/Project%203%20images/task%202%20creating%20a%20subnet.png)
+
+Task 3: Associated the subnets and added routes
+![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/0720e2a10c2c25857bf7d8fffa6cb7810871de5b/Project%203%20images/task%203.png)
+
 
 
 
