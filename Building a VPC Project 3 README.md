@@ -13,6 +13,11 @@ The key objectives for this lab project were:
 
 ![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/01510de5c1ace699f193ce77651712c69b32fa6d/Project%203%20images/Screenshot%202025-08-05%20232109.png)
 
+Task 1: created a VPC
+![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/511da98c7e59141da4c37f65da69a57c9104ab0f/Project%203%20images/task%201%20creating%20a%20vpc%20in%20action.png)
+
+
+
 
 
 
