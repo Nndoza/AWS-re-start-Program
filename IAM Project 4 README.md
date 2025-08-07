@@ -43,7 +43,7 @@ User 2 has read only permissions
 
 ![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/a3aed2f98f37331c20d1fa109bb4f049c79dc676/Project%204%3A%20images/user%202%20had%20ec2%20permissions.png)
 
-I received a message stating you don't have permissions to list buckets message because user-2 does not have permission to use Amazon S3.
+I received a message stating Access Denied because user-2 does not have permissions for Amazon S3.
 ![image alt](https://github.com/Nndoza/AWS-re-start-Program/blob/a3aed2f98f37331c20d1fa109bb4f049c79dc676/Project%204%3A%20images/user%202%20had%20no%20s3%20access%20permissions.png)
 
 User 2 only has read permissions and can not stop the instance that is running.
