@@ -20,12 +20,12 @@ https://github.com/Nndoza/AWS-re-start-Program/blob/e583b064e1d707b11d0d4bc89c48
 
 https://github.com/Nndoza/AWS-re-start-Program/blob/2455124e31549b85a327724c288180f9a7e2189a/Building%20a%20VPC%20Project%203%20README.md
 
-### Project 4: 
+### Project 4: Introduction to AWS Identity and Access Management
 
 https://github.com/Nndoza/AWS-re-start-Program/blob/69724ed56b6a6ca5c0c361c5e586d4a6e6811585/IAM%20Project%204%20README.md
 
 
-### Project 5: 
+### Project 5:  Creating Amazon EC2 Instances
 
 https://github.com/Nndoza/AWS-re-start-Program/blob/124509aa3ba7a32dab3328fc3e54554a295626c4/EC2%20Instances%20Project%205%20README.md
 
