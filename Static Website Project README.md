@@ -77,7 +77,7 @@ This project highlighted the clear differences between traditional hosting and c
 
 One of the key lessons was that traditional hosting is rigid, costly, and lacks scalability, whereas AWS Cloud provides flexible, pay-as-you-go pricing. Performance and scalability improved significantly after migration thanks to Amazon S3 and CloudFront. Security was also strengthened through AWS Certificate Manager and CloudFront’s built-in DDoS protection.
 
-Another important takeaway was that the AWS Free Tier allows a production-ready static website to run at almost no cost. The structured approach of breaking the migration into distinct phases—planning, setup, rebuild, go-live, and training—ensured that the project was completed smoothly and successfully.
+Another important takeaway was that the AWS Free Tier allows a production-ready static website to run at almost no cost. The structured approach of breaking the migration into distinct phases planning, setup, rebuild, go-live, and training ensured that the project was completed smoothly and successfully.
 
 By moving to AWS, Zoe Fitness achieved faster performance, stronger security, global scalability, and cost efficiency. This migration also established a future-proof foundation that will support potential growth, including the addition of e-commerce or membership features.
 
