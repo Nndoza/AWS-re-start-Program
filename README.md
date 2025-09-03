@@ -31,6 +31,8 @@ https://github.com/Nndoza/AWS-re-start-Program/blob/124509aa3ba7a32dab3328fc3e54
 
 ### Project 6: S3 Web Hosting and Presentation
 
+https://github.com/Nndoza/AWS-re-start-Program/blob/main/Static%20Website%20Project%20README.md
+
 
 
 
