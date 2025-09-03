@@ -1,4 +1,4 @@
-# Building a static website for Zoe Fitness
+# Building a static website for Zoe Fitness Company
 
 ## AWS Cloud Migration Project
 
